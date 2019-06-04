@@ -1,0 +1,5 @@
+/* pages/course/course.wxss */
+.course {
+  /* 保持上下两个按钮的间距 */
+  margin-top: 20px; 
+}
